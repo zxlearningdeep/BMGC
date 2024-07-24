@@ -19,4 +19,5 @@ Place the 'data' and 'best' folders from the downloaded files into the BMGC dire
   title = {Balanced Multi-Relational Graph Clustering},
   year = {2024},
   booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia}
-}```
+}
+```
