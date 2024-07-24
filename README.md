@@ -11,3 +11,12 @@ Place the 'data' and 'best' folders from the downloaded files into the BMGC dire
 # Training
 
 `python main.py`
+
+# Citation
+
+```@inproceedings{bmgc,
+  author = {Shen, Zhixiang and He, Haolan and Kang, Zhao},
+  title = {Balanced Multi-Relational Graph Clustering},
+  year = {2024},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia}
+}```
