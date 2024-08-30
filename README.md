@@ -21,7 +21,7 @@ If you use the MAG dataset in your research, please make sure to cite our paper.
 # Citation
 
 ```
-@inproceedings{bmgc,
+@inproceedings{shen2024balanced,
   author = {Shen, Zhixiang and He, Haolan and Kang, Zhao},
   title = {Balanced Multi-Relational Graph Clustering},
   year = {2024},
