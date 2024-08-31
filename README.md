@@ -1,6 +1,6 @@
 # Balanced Multi-Relational Graph Clustering
 
-This repository contains the source code and datasets for the paper "Balanced Multi-Relational Graph Clustering", accepted by ACM Multimedia 2024.
+This repository contains the source code and datasets for the paper "Balanced Multi-Relational Graph Clustering", accepted by the 32nd ACM International Conference on Multimedia (MM 2024).
 
 # Available Data
 
