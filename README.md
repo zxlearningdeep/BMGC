@@ -18,7 +18,7 @@ MAG is a large-scale citation network, constituting the largest dataset in multi
 
 If you use the MAG dataset in your research, please make sure to cite our paper. Thank you!
 
-# Citation
+# BibTeX
 
 ```
 @inproceedings{shen2024balanced,
