@@ -2,6 +2,8 @@
 
 This repository contains the source code and datasets for the paper "Balanced Multi-Relational Graph Clustering", accepted by the 32nd ACM International Conference on Multimedia (MM 2024).
 
+Paper Link: https://arxiv.org/abs/2407.16863
+
 # Available Data
 
 All the datasets and the trained model parameters can be downloaded from [datasets link](https://drive.google.com/file/d/18Nma11U2X4tvc_jvLYl1I3BpFbhRSR0A/view?usp=sharing).
@@ -22,9 +24,10 @@ If you use the MAG dataset in your research, please make sure to cite our paper.
 
 ```
 @inproceedings{shen2024balanced,
-  author = {Shen, Zhixiang and He, Haolan and Kang, Zhao},
-  title = {Balanced Multi-Relational Graph Clustering},
-  year = {2024},
-  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia}
+  title={Balanced Multi-Relational Graph Clustering},
+  author={Shen, Zhixiang and He, Haolan and Kang, Zhao},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={4120--4128},
+  year={2024}
 }
 ```
