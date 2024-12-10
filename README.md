@@ -21,7 +21,8 @@ This code requires the following:
 * Scipy==1.10.1
 * Scikit-learn==1.2.1
 * Munkres==1.1.4
-* kmeans-pytorch==0.3 
+* kmeans-pytorch==0.3
+* PyTorch_Geometric==2.2.0
 
 # Training
 
