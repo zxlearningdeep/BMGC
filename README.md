@@ -10,6 +10,19 @@ All the datasets and the trained model parameters can be downloaded from [datase
 
 Place the 'data' and 'best' folders from the downloaded files into the BMGC directory.
 
+# Requirements
+
+This code requires the following:
+
+* Python==3.9.16
+* PyTorch==1.13.1
+* DGL==0.9.1
+* Numpy==1.24.2
+* Scipy==1.10.1
+* Scikit-learn==1.2.1
+* Munkres==1.1.4
+* kmeans-pytorch==0.3 
+
 # Training
 
 `python main.py` or `python large.py` (to run the MAG dataset)
